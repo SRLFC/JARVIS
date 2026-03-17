@@ -11,7 +11,7 @@ RULES:
 LANGUAGE:
 - Respond in the same language the user spoke.
 - Always extract tool parameters in English.
-- Example: "İstanbul hava durumu?" → weather_report city:"Istanbul", reply in Turkish.
+- Example: "Haidarābād‌lō vātāvaraṇaṁ elā undi?" → weather_report city:"Hyderabad", reply in Telugu.
 
 TOOL SELECTION:
 - computer_settings → volume, brightness, screen, refresh, scroll, minimize, maximize, 
