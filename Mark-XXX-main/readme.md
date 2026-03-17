@@ -1,8 +1,22 @@
 # 🤖 MARK XXX
 
-**Watch The Detailed Video To Set-up This Model**: https://www.youtube.com/watch?v=-YjbWjv1tJg
+**Set up:**
+1 Install Required Libraries
+  Before running the main program, you must install the necessary dependencies (like Python libraries):
+  Locate the file named setup.py in the downloaded folder.
+  Run this script to automatically download and install every required library for the assistant to function.
 
-### Next-Generation Personal AI Assistant — By FatihMakes
+2. Obtain a Google Gemini API Key
+  The assistant uses Google’s Gemini models to process your voice and commands:
+  Go to Google AI Studio.
+  Navigate to the API Key section and click Create API Key.
+  Copy this key to your clipboard.
+
+3. Launch and Configure
+  Once the libraries are installed and you have your key:
+  Run the main.py file to start the application.
+  A screen will appear with a field for your API key.
+  Paste your API key into this section and run the program.
 
 A real-time voice AI that can hear, see, understand, and control your Windows computer.
 Local execution. Zero subscriptions(Unless you want to increase request by buying requests from Google AI Studio).
@@ -40,20 +54,9 @@ System ready in minutes.
 
 If you got some problems or questions to ask or just want to support;
 
-YouTube Account: [text](https://www.youtube.com/@FatihMakes)
-Instagram Account: [text](https://www.instagram.com/fatihmakes/)
-
 ## 📋 Requirements
 
 * Windows 10 / 11
 * Python 3.10 or newer
 * Microphone
 * Gemini API key
-
-## ⚠️ License
-
-Personal and non-commercial use only.
-Licensed under **Creative Commons BY-NC 4.0**.
-
-Engineered by a 17-year-old building a real JARVIS-style assistant.
-⭐ Star the repository to support the project.
