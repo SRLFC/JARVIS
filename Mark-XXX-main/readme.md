@@ -40,20 +40,6 @@ Designed for speed, autonomy, and real-world usability.
 * **Persistent memory** — Learns preferences and remembers context
 * **Integrated tools** — Web search, weather, reminders, messaging, code help, image generation
 
-## ⚡ Quick Start
-
-```bash
-git clone https://github.com/FatihMakes
-cd mark-xxx
-python setup.py
-python main.py
-```
-
-Enter your free Gemini API key on first launch.
-System ready in minutes.
-
-If you got some problems or questions to ask or just want to support;
-
 ## 📋 Requirements
 
 * Windows 10 / 11
